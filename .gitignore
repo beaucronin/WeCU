@@ -1,0 +1,2 @@
+.mypy_cache/*
+ingest/hifld/hifld_hospitals.csv
