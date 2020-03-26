@@ -1,2 +1,4 @@
 .mypy_cache/*
 ingest/hifld/hifld_hospitals.csv
+ingest/ny-beds/nys-beds.json
+ingest/ny-beds/nys-facilities.json
